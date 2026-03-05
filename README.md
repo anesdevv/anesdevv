@@ -16,15 +16,17 @@ Welcome to my GitHub! I am a passionate developer and systems technician dedicat
 
 ### 🛠️ Tech Stack & Skills
 
-**Languages & Frameworks:**
-* Python • JavaScript • PHP • HTML/CSS • Pascal • Flutter
+**Languages & Frameworks:**<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 
-**Databases:**
-* MySQL • Microsoft Access
-
-**Systems & IT:**
-* Linux (Basics) • Networking Fundamentals
-* **Security:** Diploma in CCTV and System Security
+**Databases & Systems:**<br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Networking-005571?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
 
 ---
 
