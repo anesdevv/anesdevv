@@ -1,5 +1,7 @@
 # Hi there! 👋 I'm Sebai Anes
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-09131B?style=flat&logo=vercel&logoColor=white)](https://anesdevv-portfolio.vercel.app/)
+
 ### 🚀 Database Student | Technician Superior | Developer
 
 Welcome to my GitHub! I am a passionate student and systems technician dedicated to building practical, user-friendly digital solutions. From complex management systems to beautifully crafted personal productivity apps, I love turning ideas into code.
@@ -33,10 +35,5 @@ Welcome to my GitHub! I am a passionate student and systems technician dedicated
 ---
 
 ### 📫 Let's Connect!
+* **Portfolio:** [anesdevv-portfolio.vercel.app](https://anesdevv-portfolio.vercel.app/)
 * **Email:** sebaianesmiloud@gmail.com
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anesdevv&show_icons=true&theme=radical" alt="Anes's GitHub Stats" />
-</div>
