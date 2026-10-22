@@ -27,17 +27,17 @@ Algerien · umzugsbereit · Ausbildungsstart: August 2027
 
 ## Berufserfahrung
 
-### ⚠️ Praktikum — Mitarbeiter-Datenbank · `[Monat] [Jahr]` – `[Monat] [Jahr]`
-`[Firmenname]` · `[Ort]`
+### Praktikum — Abschlussprojekt RÉSIVO · 10/2026 – 04/2027
+Direction des Ouvres Universitaires, Cité Universitaire, Tlemcen · Algerien
 
-- Entwicklung einer Datenbank für die Gesundheitsdaten der Mitarbeiter (6 Monate)
-- Entwurf des Datenmodells, Umsetzung der Oberfläche und Administration der Daten
+- 6-monatiges Praktikum im Studentenwohnheim der Universität Tlemcen
+- Entwicklung der Anwendung **RÉSIVO** als Abschlussprojekt (Prüfungsprojekt), Abschluss am 07. April 2027
 
 ---
 
 ## Projekte
 
-### RÉSIVO — Verwaltung von Studentenwohnheimen · 2026
+### RÉSIVO — Verwaltung von Studentenwohnheimen · 2026 – 2027
 *Direction des Ouvres Universitaires, Tlemcen* — Python, PySide6/Qt6, Astro 5, TypeScript, PostgreSQL, Supabase, Cloudflare Workers
 
 - Komplettsystem mit drei Oberflächen: Web-Portal für Studierende, Desktop-Konsole für die Verwaltung und KI-Assistent (MCP-Server) für Auswertungen in natürlicher Sprache

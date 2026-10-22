@@ -54,7 +54,7 @@
 
 | 🇩🇪 Deutsch | 🇬🇧 English |
 |---|---|
-| **RÉSIVO** ist ein System für die Verwaltung von Studentenwohnheimen. Ich habe es für die **Direction des Ouvres Universitaires** in Tlemcen (Algerien) entwickelt.<br /><br />Es hat drei Teile: eine **Web-App für Studenten**, ein **Desktop-Programm für das Personal** und einen **MCP-Server für ChatGPT**.<br /><br />Die Daten liegen in **PostgreSQL** mit RLS und Stored Procedures. Ich habe dazu auch meine **Abschlussarbeit** geschrieben. | **RÉSIVO** is a system for managing university student residences. I developed it for the **Direction des Ouvres Universitaires** in Tlemcen (Algeria).<br /><br />It has three parts: a **web app for students**, a **desktop app for staff**, and an **MCP server for ChatGPT**.<br /><br />The data lives in **PostgreSQL** with RLS and stored procedures. I also wrote my **final-year thesis** about it. |
+| **RÉSIVO** ist ein System für die Verwaltung von Studentenwohnheimen. Ich habe es während eines **6-monatigen Praktikums** für die **Direction des Ouvres Universitaires** in Tlemcen (Algerien) entwickelt — als **Abschlussprojekt (Prüfungsprojekt)**, Abschluss am **07. April 2027**.<br /><br />Es hat drei Teile: eine **Web-App für Studenten**, ein **Desktop-Programm für das Personal** und einen **MCP-Server für ChatGPT**.<br /><br />Die Daten liegen in **PostgreSQL** mit RLS und Stored Procedures. Ich habe dazu auch meine **Abschlussarbeit** geschrieben. | **RÉSIVO** is a system for managing university student residences. I built it during a **6-month internship** for the **Direction des Ouvres Universitaires** in Tlemcen (Algeria) — as my **final exam project**, completing on **7 April 2027**.<br /><br />It has three parts: a **web app for students**, a **desktop app for staff**, and an **MCP server for ChatGPT**.<br /><br />The data lives in **PostgreSQL** with RLS and stored procedures. I also wrote my **final-year thesis** about it. |
 
 ### 📸 Oberfläche / Interface
 
@@ -145,7 +145,7 @@
 | | 🇩🇪 Deutsch | 🇬🇧 English |
 |---|---|---|
 | **Ausbildung** | Technicien Supérieur (Informatik), Algerien — Abschlussarbeit über RÉSIVO | Technicien Supérieur (computer science), Algeria — final-year thesis on RÉSIVO |
-| **Praxis** | 6-monatiges Praktikum: Entwicklung einer Mitarbeiter-Datenbank (Gesundheitsdaten) für ein Unternehmen | 6-month internship: development of an employee database (occupational health data) for a company |
+| **Praxis** | **6-monatiges Praktikum** im Studentenwohnheim der Universität Tlemcen (Direction des Ouvres Universitaires) — Entwicklung von **RÉSIVO** als **Abschlussprojekt (Prüfungsprojekt)**, Abschluss am **07. April 2027** | **6-month internship** at the university residence in Tlemcen (Direction des Ouvres Universitaires) — building **RÉSIVO** as my **final exam project**, completing on **7 April 2027** |
 | **Projekte** | 11 öffentliche Repositories (Open Source) — Schwerpunkt: Web- und Desktop-Entwicklung, Datenbanken und Datenanalyse | 11 public repositories (open source) — focus: web and desktop development, databases and data analysis |
 | **Deutsch** | **B1** — in Weiterbildung, Ziel **B2** vor dem Ausbildungsbeginn | **B1** — continuing study, target **B2** before the apprenticeship starts |
 | **Englisch** | **B2** — Arbeitssprache in meinen Projekten | **B2** — working language in my projects |
