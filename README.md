@@ -91,13 +91,13 @@
 
 | Projekt / Project | Beschreibung / Description | Fachrichtung |
 |---|---|---|
-| **Ulvic Console** — Ledger & Lager | Internes Verwaltungssystem für die Druckerei **Ulvik Print** (Algier): Umsatz, Kosten, Gewinn und Deckungsbeitrag als KPI-Panel, Lagerbestände in Echtzeit, Kalender-Ledger mit Notizen. <br /><sub>Internal ledger for the Ulvik Print workshop: revenue, expenses, profit and margin KPIs, real-time stock, calendar-based ledger.</sub> | Daten- und Prozessanalyse |
-| **Ulvik Print** — Onlineshop | Onlineshop für individuelle Textil-Drucke, gebaut für den algerischen Markt (React 19, TypeScript, Vite, Tailwind CSS v4, Supabase) mit Backoffice-Verwaltung. <br /><sub>Custom apparel e-commerce storefront with back-office management, built for the Algerian market.</sub> | Anwendungsentwicklung |
-| **FlowVoice** — Sprachdiktat | Desktop-App für **lokale** Sprachdiktate (Electron, Python, Whisper offline). Kein Cloud, keine Accounts, kein Telemetrie — die Transkription läuft auf dem eigenen Rechner. <br /><sub>100% private local voice dictation with offline Whisper. No cloud, no accounts, no telemetry.</sub> | Anwendungsentwicklung · Systemintegration |
-| **Lycée Yaghmouracen** — Schulverwaltung | Verwaltungssystem für eine weiterführende Schule (Python, PySide6/Qt6, SQLite) mit Schülern, Noten, Zeugnissen und Abschlüssen, getestet mit Pytest. <br /><sub>High-school management system with pupils, grades, transcripts and diplomas, tested with Pytest.</sub> | Daten- und Prozessanalyse |
-| **Anes Journey** — Flutter-App | All-in-one-App für Gewohnheiten, Aufgaben und Tagesplanung (Dart, Flutter, Supabase). <br /><sub>All-in-one productivity app for habits, tasks and daily planning.</sub> | Anwendungsentwicklung |
-| **Employee Management System** — Mitarbeiterverwaltung | Mitarbeiterverwaltung mit CustomTkinter und SQLite, inklusive Dashboard, Rollen und zweisprachiger Oberfläche (Französisch/Englisch). <br /><sub>Employee management with CustomTkinter and SQLite, including a dashboard, roles and a bilingual interface.</sub> | Anwendungsentwicklung |
-| **Infinite XO** — Browser-Spiel | Tic-Tac-Toe mit FIFO-Mechanik: Jede Figur hat eine begrenzte Lebensdauer (TypeScript). <br /><sub>Tic-tac-toe reimagined with a FIFO mechanic — every mark has a half-life.</sub> | Anwendungsentwicklung |
+| **Ulvic Console** — Ledger & Lager | Internes Verwaltungssystem für die Druckerei **Ulvik Print** (Algier): Umsatz, Kosten, Gewinn und Deckungsbeitrag als KPI-Panel, Lagerbestände in Echtzeit, Kalender-Ledger mit Notizen (Next.js, React, TypeScript, Supabase). <br /><sub>Internal ledger for the Ulvik Print workshop: revenue, expenses, profit and margin KPIs, real-time stock, calendar-based ledger.</sub> | Daten- und Prozessanalyse |
+| **[Ulvik Print](https://github.com/anesdevv/ulvik-print)** — Onlineshop | Onlineshop für individuelle Textil-Drucke, gebaut für den algerischen Markt (Vite, React 19, TypeScript, Tailwind CSS v4, Supabase) mit Backoffice-Verwaltung. <br /><sub>Custom apparel e-commerce storefront with back-office management, built for the Algerian market.</sub> | Anwendungsentwicklung |
+| **[FlowVoice](https://github.com/anesdevv/flow-voice)** — Sprachdiktat | Desktop-App für **lokale** Sprachdiktate (Electron, Python, Whisper offline). Kein Cloud, keine Accounts, kein Telemetrie — die Transkription läuft auf dem eigenen Rechner. <br /><sub>100% private local voice dictation with offline Whisper. No cloud, no accounts, no telemetry.</sub> | Anwendungsentwicklung · Systemintegration |
+| **[Lycée Yaghmouracen](https://github.com/anesdevv/lycee-yaghmouracen)** — Schulverwaltung | Verwaltungssystem für eine weiterführende Schule (Python, PySide6/Qt6, SQLite) mit Schülern, Noten, Zeugnissen und Abschlüssen, getestet mit Pytest. <br /><sub>High-school management system with pupils, grades, transcripts and diplomas, tested with Pytest.</sub> | Daten- und Prozessanalyse |
+| **[Anes Journey](https://github.com/anesdevv/anes-journey)** — Flutter-App | All-in-one-App für Gewohnheiten, Aufgaben und Tagesplanung (Dart, Flutter, Supabase). <br /><sub>All-in-one productivity app for habits, tasks and daily planning.</sub> | Anwendungsentwicklung |
+| **[Employee Management System](https://github.com/anesdevv/employee-management-system)** — Mitarbeiterverwaltung | Mitarbeiterverwaltung mit CustomTkinter und SQLite, inklusive Dashboard, Rollen und zweisprachiger Oberfläche (Französisch/Englisch). <br /><sub>Employee management with CustomTkinter and SQLite, including a dashboard, roles and a bilingual interface.</sub> | Anwendungsentwicklung |
+| **[Infinite XO](https://github.com/anesdevv/infinite-xo)** — Browser-Spiel | Tic-Tac-Toe mit FIFO-Mechanik: Jede Figur hat eine begrenzte Lebensdauer (TypeScript). <br /><sub>Tic-tac-toe reimagined with a FIFO mechanic — every mark has a half-life.</sub> | Anwendungsentwicklung |
 
 <p align="center">
   <sub>🔗 <a href="https://github.com/anesdevv?tab=repositories">Alle Repositories / All repositories</a> &nbsp;·&nbsp; <a href="https://learning-deutsch-with-anes.netlify.app/">Learn Deutsch With Anes</a> — meine eigene Deutschlern-App mit A1/A2-Texten, Vokabeln und Quiz / my own German-learning app with A1/A2 texts, vocabulary and quizzes</sub>
@@ -147,13 +147,12 @@
 |---|---|---|
 | **Ausbildung** | Technicien Supérieur (Informatik), Algerien — Abschlussarbeit über RÉSIVO | Technicien Supérieur (computer science), Algeria — final-year thesis on RÉSIVO |
 | **Praxis** | 6-monatiges Praktikum: Entwicklung einer Mitarbeiter-Datenbank (Gesundheitsdaten) für ein Unternehmen | 6-month internship: development of an employee database (occupational health data) for a company |
-| **Projekte** | 13 öffentliche Repositories mit vollständigem Quellcode, Tests und Dokumentation | 13 public repositories with full source code, tests and documentation |
+| **Projekte** | 11 öffentliche Repositories (Open Source) — Schwerpunkt: Web- und Desktop-Entwicklung, Datenbanken und Datenanalyse | 11 public repositories (open source) — focus: web and desktop development, databases and data analysis |
 | **Deutsch** | **A2** — in Weiterbildung, Ziel **B1 bis B2** vor dem Ausbildungsbeginn | **A2** — continuing study, target **B1 to B2** before the apprenticeship starts |
 | **Englisch** | **B2** — Unterrichts- und Arbeitssprache in den Projekten | **B2** — working language in my projects |
 | **Französisch** | **C1** | **C1** |
 | **Ausbildungsstart** | **August 2027** | **August 2027** |
 | **Standort** | **Bundesweit offen**, umzugsbereit | **Open to any region in Germany**, willing to relocate |
-| **Führerschein** | Klasse B | Category B |
 
 ---
 

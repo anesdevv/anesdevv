@@ -47,7 +47,7 @@ Algerien · umzugsbereit · Ausbildungsstart: August 2027
 - 23 automatisierte Tests (Pytest) und Vitest-Suite; Open Source (MIT-Lizenz)
 
 ### Ulvic Console — Ledger und Lagerverwaltung · 2026
-*Ulvik Print, Algier* — TypeScript, React, Supabase
+*Ulvik Print, Algier* — Next.js, React, TypeScript, Supabase
 
 - Interne Anwendung für Umsatz, Kosten, Gewinn und Deckungsbeitrag sowie Lagerbestände in Echtzeit
 - Kalenderbasierte Ledger-Suche mit Notizen und Abbildung der Geschäftsprozesse
