@@ -1,8 +1,8 @@
-<h1 align="center">Hallo! 👋 Ich bin Sebai Anes</h1>
+<h1 align="center">Hallo! Ich bin Sebai Anes</h1>
 
 <p align="center">
   <strong>Ich suche eine Ausbildung als <code>Fachinformatiker/in</code> in Deutschland.</strong><br />
-  <em>I am looking for an apprenticeship as a Fachinformatiker (IT specialist) in Germany.</em>
+  <em>I am seeking an apprenticeship as a Fachinformatiker (IT specialist) in Germany.</em>
 </p>
 
 <p align="center">
@@ -20,17 +20,17 @@
 
 ---
 
-## 📌 Kurzvorstellung / About
+## Kurzvorstellung / About
 
-| 🇩🇪 Deutsch | 🇬🇧 English |
+| Deutsch | English |
 |---|---|
-| Ich bin **Technicien Supérieur** in Informatik aus Algerien. Ich entwickle Software mit **Python**, **TypeScript** und **Flutter**. Ich mag Datenbanken und gute Benutzeroberflächen. Ich möchte meine Kenntnisse in Deutschland vertiefen. | I am a **Technicien Supérieur** in computer science from Algeria. I build software with **Python**, **TypeScript** and **Flutter**. I care about databases and clean user interfaces. I want to deepen my skills in Germany. |
+| Ich bin Technicien Supérieur in Informatik aus Algerien und entwickle Software mit Python, TypeScript und Flutter. Mein Schwerpunkt liegt auf relationalen Datenbanken und klar strukturierten Benutzeroberflächen. Ab August 2027 suche ich eine Ausbildung in Deutschland, um meine praktischen Kenntnisse im Betrieb zu vertiefen. | I am a Technicien Supérieur in computer science from Algeria. I build software with Python, TypeScript, and Flutter, with a focus on relational databases and clean user interfaces. I am seeking an IT apprenticeship in Germany starting August 2027 to deepen my skills in a production environment. |
 
-<p align="center"><em>⬇️ Mein wichtigstes Projekt / My main project ⬇️</em></p>
+<p align="center"><em>Mein wichtigstes Projekt / My main project</em></p>
 
 ---
 
-## 🏠 RÉSIVO — Studentenwohnheim-Verwaltung / University Residence Management
+## RÉSIVO: Studentenwohnheim-Verwaltung / University Residence Management
 
 <p align="center">
   <picture>
@@ -52,11 +52,11 @@
   <img alt="Cloudflare Workers" src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
 </p>
 
-| 🇩🇪 Deutsch | 🇬🇧 English |
+| Deutsch | English |
 |---|---|
-| **RÉSIVO** ist ein System für die Verwaltung von Studentenwohnheimen. Ich habe es während eines **6-monatigen Praktikums** für die **Direction des Ouvres Universitaires** in Tlemcen (Algerien) entwickelt — als **Abschlussprojekt (Prüfungsprojekt)**, Abschluss am **07. April 2027**.<br /><br />Es hat drei Teile: eine **Web-App für Studenten**, ein **Desktop-Programm für das Personal** und einen **MCP-Server für ChatGPT**.<br /><br />Die Daten liegen in **PostgreSQL** mit RLS und Stored Procedures. Ich habe dazu auch meine **Abschlussarbeit** geschrieben. | **RÉSIVO** is a system for managing university student residences. I built it during a **6-month internship** for the **Direction des Ouvres Universitaires** in Tlemcen (Algeria) — as my **final exam project**, completing on **7 April 2027**.<br /><br />It has three parts: a **web app for students**, a **desktop app for staff**, and an **MCP server for ChatGPT**.<br /><br />The data lives in **PostgreSQL** with RLS and stored procedures. I also wrote my **final-year thesis** about it. |
+| RÉSIVO ist ein Verwaltungssystem für Studentenwohnheime. Ich habe das Projekt während eines 6-monatigen Praktikums für die Direction des Œuvres Universitaires in Tlemcen (Algerien) als Abschlussprojekt entwickelt (Prüfungsabschluss am 07. April 2027).<br /><br />Das System besteht aus drei Komponenten: einem Web-Portal für Studenten, einer Desktop-Anwendung für das Personal und einem MCP-Server für KI-gestützte Abfragen.<br /><br />Die Datenhaltung erfolgt in PostgreSQL mit Row Level Security und transaktionalen Stored Procedures. Über die Architektur habe ich auch meine schriftliche Abschlussarbeit verfasst. | RÉSIVO is an operations system for university student residences. I built it during a 6-month internship for the Direction des Œuvres Universitaires in Tlemcen (Algeria) as my final exam project, completing on 7 April 2027.<br /><br />The platform has three components: a web portal for students, a desktop client for administration staff, and an MCP server for query assistance.<br /><br />Data is stored in PostgreSQL using row level security and stored procedures. I also wrote my final-year thesis on its architecture. |
 
-### 📸 Oberfläche / Interface
+### Oberfläche / Interface
 
 <table>
   <tr>
@@ -67,44 +67,44 @@
 
 <p align="center">
   <img alt="Mobile Ansicht / Mobile view" src="assets/resivo-mobile.png" width="250" /><br />
-  <sub>Responsive / Mobil</sub>
+  <sub>Responsive Ansicht / Mobile view</sub>
 </p>
 
-### 🎯 Passend zu den Fachrichtungen / Matches the specialisations
+### Fachrichtungen / Specialisations
 
 | Fachrichtung | Nachweis / Evidence |
 |---|---|
 | **Anwendungsentwicklung**<br /><sub>Application development</sub> | Astro-5-Portal mit SSR und Tailwind CSS v4, PySide6-/Qt6-Desktop-Konsole, TypeScript, PL/pgSQL-Funktionen, eigene Design-Tokens (WCAG AA) und eine gemeinsame Komponentenbibliothek für Web und Desktop. |
-| **Systemintegration**<br /><sub>Systems integration</sub> | Supabase Auth, Storage und Edge Functions; MCP-Server auf Cloudflare Workers; Live-Sync-Worker mit 2-Sekunden-Polling; Integration von Web, Desktop und KI über eine gemeinsame Datenbank; Hintergrund-Worker mit Threading und sauberem Shutdown. |
-| **Daten- und Prozessanalyse**<br /><sub>Data & process analysis</sub> | PostgreSQL mit RLS-Policies und `SECURITY DEFINER`-Funktionen, Workflow *Anfrage → Prüfung → Genehmigung*, Wartungsprozess *Offen → In Arbeit → Erledigt*, Import und Validierung des offiziellen Prüfungsregisters (CSV/Excel), KPI-Abfragen zu Auslastung und offenen Tickets in natürlicher Sprache. |
+| **Systemintegration**<br /><sub>Systems integration</sub> | Supabase Auth, Storage und Edge Functions; MCP-Server auf Cloudflare Workers; Live-Sync-Worker mit 2-Sekunden-Polling; gemeinsame Datenbank für Web und Desktop; Hintergrund-Worker mit Multithreading und sauberem Prozess-Shutdown. |
+| **Daten- und Prozessanalyse**<br /><sub>Data & process analysis</sub> | PostgreSQL mit RLS-Policies und `SECURITY DEFINER`-Funktionen, Workflow für Registrierung und Genehmigung, Wartungsprozess mit Statusphasen, Import und Validierung des offiziellen Prüfungsregisters (CSV/Excel), KPI-Abfragen zu Auslastung und offenen Tickets in natürlicher Sprache. |
 
-### 📊 Fakten / Facts
+### Fakten / Facts
 
-| 🇩🇪 Deutsch | 🇬🇧 English |
+| Deutsch | English |
 |---|---|
-| **23 automatisierte Tests** (Pytest) und eine Vitest-Suite · **RLS-Policies** auf Datenbankebene · **Idempotente Migrationen** und transaktionale Stored Procedures · Pflichtbegründung bei jeder Ablehnung (Audit-Trail für Rückfragen am Schalter) · Schutz gegen Selbstlöschung von Personal-Konten auf UI-, Edge-Function- und Datenbankebene · Keine Secrets im Quellcode · MIT-Lizenz · Abschlussarbeit (Mémoire de fin d'études) | **23 automated tests** (Pytest) plus a Vitest suite · **RLS policies** at the database level · **Idempotent migrations** and transactional stored procedures · Mandatory reason for every rejection (audit trail for desk enquiries) · Protection against staff self-deletion at UI, Edge Function and database level · No secrets in the source code · MIT licence · Final-year thesis (Mémoire de fin d'études) |
+| 23 automatisierte Tests (Pytest) und eine Vitest-Suite · RLS-Policies auf Datenbankebene · Idempotente Migrationen und transaktionale Stored Procedures · Pflichtbegründung bei jeder Ablehnung (Audit-Trail für Schalterauskünfte) · Schutz vor Selbstlöschung bei Personalkonten auf UI-, Edge-Function- und Datenbankebene · Keine Zugangsdaten im Quellcode · MIT-Lizenz · Abschlussarbeit (Mémoire de fin d'études) | 23 automated tests (Pytest) plus a Vitest suite · Database-level RLS policies · Versioned migrations and transactional stored procedures · Mandatory recorded explanations for application rejections · Multi-tier self-deletion prevention for staff accounts across UI, Edge Functions, and database functions · Zero secrets stored in source code · MIT license · Final-year thesis (Mémoire de fin d'études) |
 
 ---
 
-## 💼 Weitere Projekte / Other Projects
+## Weitere Projekte / Other projects
 
 | Projekt / Project | Beschreibung / Description | Fachrichtung |
 |---|---|---|
-| **Ulvic Console** — Ledger & Lager | Internes Verwaltungssystem für die Druckerei **Ulvik Print** (Algier): Umsatz, Kosten, Gewinn und Deckungsbeitrag als KPI-Panel, Lagerbestände in Echtzeit, Kalender-Ledger mit Notizen (Next.js, React, TypeScript, Supabase). <br /><sub>Internal ledger for the Ulvik Print workshop: revenue, expenses, profit and margin KPIs, real-time stock, calendar-based ledger.</sub> | Daten- und Prozessanalyse |
-| **[Ulvik Print](https://github.com/anesdevv/ulvik-print)** — Onlineshop | Onlineshop für individuelle Textil-Drucke, gebaut für den algerischen Markt (Vite, React 19, TypeScript, Tailwind CSS v4, Supabase) mit Backoffice-Verwaltung. <br /><sub>Custom apparel e-commerce storefront with back-office management, built for the Algerian market.</sub> | Anwendungsentwicklung |
-| **[FlowVoice](https://github.com/anesdevv/flow-voice)** — Sprachdiktat | Desktop-App für **lokale** Sprachdiktate (Electron, Python, Whisper offline). Kein Cloud, keine Accounts, kein Telemetrie — die Transkription läuft auf dem eigenen Rechner. <br /><sub>100% private local voice dictation with offline Whisper. No cloud, no accounts, no telemetry.</sub> | Anwendungsentwicklung · Systemintegration |
-| **[Lycée Yaghmouracen](https://github.com/anesdevv/lycee-yaghmouracen)** — Schulverwaltung | Verwaltungssystem für eine weiterführende Schule (Python, PySide6/Qt6, SQLite) mit Schülern, Noten, Zeugnissen und Abschlüssen, getestet mit Pytest. <br /><sub>High-school management system with pupils, grades, transcripts and diplomas, tested with Pytest.</sub> | Daten- und Prozessanalyse |
-| **[Anes Journey](https://github.com/anesdevv/anes-journey)** — Flutter-App | All-in-one-App für Gewohnheiten, Aufgaben und Tagesplanung (Dart, Flutter, Supabase). <br /><sub>All-in-one productivity app for habits, tasks and daily planning.</sub> | Anwendungsentwicklung |
-| **[Employee Management System](https://github.com/anesdevv/employee-management-system)** — Mitarbeiterverwaltung | Mitarbeiterverwaltung mit CustomTkinter und SQLite, inklusive Dashboard, Rollen und zweisprachiger Oberfläche (Französisch/Englisch). <br /><sub>Employee management with CustomTkinter and SQLite, including a dashboard, roles and a bilingual interface.</sub> | Anwendungsentwicklung |
-| **[Infinite XO](https://github.com/anesdevv/infinite-xo)** — Browser-Spiel | Tic-Tac-Toe mit FIFO-Mechanik: Jede Figur hat eine begrenzte Lebensdauer (TypeScript). <br /><sub>Tic-tac-toe reimagined with a FIFO mechanic — every mark has a half-life.</sub> | Anwendungsentwicklung |
+| **Ulvic Console** (Ledger & Lager) | Internes Verwaltungssystem für die Druckerei Ulvik Print in Algier: Monatsumsatz, Kosten, Gewinn und Margen als KPI-Übersicht, Lagerbestände in Echtzeit, Kalender-Ledger mit Notizen (Next.js, React, TypeScript, Supabase). <br /><sub>Internal operations ledger for the Ulvik Print workshop in Algiers: revenue, expenses, net profit and margin KPIs, real-time inventory, and calendar-based transaction records.</sub> | Daten- und Prozessanalyse |
+| **[Ulvik Print](https://github.com/anesdevv/ulvik-print)** (Onlineshop) | Onlineshop für Textildrucke für den algerischen Markt mit 58 Wilayas und Backoffice-Verwaltung (Vite, React 19, TypeScript, Tailwind CSS v4, Supabase). <br /><sub>Apparel printing e-commerce platform with back-office management built for the Algerian market.</sub> | Anwendungsentwicklung |
+| **[FlowVoice](https://github.com/anesdevv/flow-voice)** (Sprachdiktat) | Desktop-App für lokale Sprachdiktate unter Windows (Electron, Python, faster-whisper). Läuft offline ohne Cloud-Verbindung, Benutzerkonten oder Telemetrie. <br /><sub>Local voice dictation app for Windows using on-device Whisper. Runs without cloud services, accounts, or telemetry.</sub> | Anwendungsentwicklung · Systemintegration |
+| **[Lycée Yaghmouracen](https://github.com/anesdevv/lycee-yaghmouracen)** (Schulverwaltung) | Offline-Schulverwaltungssystem für ein algerisches Gymnasium (Python, PySide6/Qt6, SQLite) für Schülerdaten, Personal, Anwesenheit und Zeugnisse, getestet mit Pytest. <br /><sub>Offline administrative management system for Lycée Yaghmouracen covering student rosters, staff records, attendance, and official report exports.</sub> | Daten- und Prozessanalyse |
+| **[Anes Journey](https://github.com/anesdevv/anes-journey)** (Flutter-App) | Mobile Produktivitäts-App für Aufgaben, Gewohnheiten, Gebetszeiten und Tagesplanung (Dart, Flutter, Firebase). <br /><sub>Mobile productivity application for tasks, habits, daily reflection, and routine logging.</sub> | Anwendungsentwicklung |
+| **[Employee Management System](https://github.com/anesdevv/employee-management-system)** (Mitarbeiterverwaltung) | Desktop-Mitarbeiterverwaltung mit CustomTkinter und SQLite, inklusive Kennzahlen-Dashboard, Abteilungsverwaltung und zweisprachiger Oberfläche (Französisch/Englisch). <br /><sub>Desktop employee directory built with CustomTkinter and SQLite, including metrics dashboard, department controls, and bilingual interface.</sub> | Anwendungsentwicklung |
+| **[Infinite XO](https://github.com/anesdevv/infinite-xo)** (Browser-Spiel) | Tic-Tac-Toe mit FIFO-Mechanik: Jeder Spieler hat maximal drei aktive Zeichen auf dem Spielfeld (Next.js, TypeScript). <br /><sub>Tic-tac-toe variant where players maintain a queue of three active marks, preventing draws.</sub> | Anwendungsentwicklung |
 
 <p align="center">
-  <sub>🔗 <a href="https://github.com/anesdevv?tab=repositories">Alle Repositories / All repositories</a> &nbsp;·&nbsp; <a href="https://learning-deutsch-with-anes.netlify.app/">Learn Deutsch With Anes</a> — meine eigene Deutschlern-App mit A1/A2-Texten, Vokabeln und Quiz / my own German-learning app with A1/A2 texts, vocabulary and quizzes</sub>
+  <sub><a href="https://github.com/anesdevv?tab=repositories">Alle Repositories / All repositories</a> &nbsp;·&nbsp; <a href="https://learning-deutsch-with-anes.netlify.app/">Learn Deutsch With Anes</a>: Deutschlern-App mit A1/A2-Lesetexten, Vokabeln und Quizfragen</sub>
 </p>
 
 ---
 
-## 🛠️ Technologien / Tech Stack
+## Technologien / Tech stack
 
 <p align="center">
   <img alt="Python" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
@@ -140,22 +140,22 @@
 
 ---
 
-## 🎓 Ausbildung, Sprache & Praxis / Education, Language & Experience
+## Ausbildung, Sprache und Praxis / Education, language and experience
 
-| | 🇩🇪 Deutsch | 🇬🇧 English |
+| | Deutsch | English |
 |---|---|---|
-| **Ausbildung** | Technicien Supérieur (Informatik), Algerien · **2024 – 2027** — 2 Jahre Studium mit integriertem 6-monatigem Praktikum; Abschlussarbeit über RÉSIVO | Technicien Supérieur (computer science), Algeria · **2024 – 2027** — two years of study with an integrated 6-month internship; final-year thesis on RÉSIVO |
-| **Praxis** | **6-monatiges Praktikum** im Studentenwohnheim der Universität Tlemcen (Direction des Ouvres Universitaires) — Entwicklung von **RÉSIVO** als **Abschlussprojekt (Prüfungsprojekt)**, Abschluss am **07. April 2027** | **6-month internship** at the university residence in Tlemcen (Direction des Ouvres Universitaires) — building **RÉSIVO** as my **final exam project**, completing on **7 April 2027** |
-| **Projekte** | 11 öffentliche Repositories (Open Source) — Schwerpunkt: Web- und Desktop-Entwicklung, Datenbanken und Datenanalyse | 11 public repositories (open source) — focus: web and desktop development, databases and data analysis |
-| **Deutsch** | **B1** — in Weiterbildung, Ziel **B2** vor dem Ausbildungsbeginn | **B1** — continuing study, target **B2** before the apprenticeship starts |
-| **Englisch** | **B2** — Arbeitssprache in meinen Projekten | **B2** — working language in my projects |
-| **Französisch** | **C1** | **C1** |
-| **Ausbildungsstart** | **August 2027** | **August 2027** |
-| **Standort** | **Bundesweit offen**, umzugsbereit | **Open to any region in Germany**, willing to relocate |
+| **Ausbildung** | Technicien Supérieur (Informatik), Algerien (2024-2027): 2 Jahre Studium mit integriertem 6-monatigem Praktikum; Abschlussarbeit über RÉSIVO | Technicien Supérieur (computer science), Algeria (2024-2027): two years of coursework with an integrated 6-month internship; final-year thesis on RÉSIVO |
+| **Praxis** | 6-monatiges Praktikum im Studentenwohnheim der Universität Tlemcen (Direction des Œuvres Universitaires): Entwicklung von RÉSIVO als Prüfungsprojekt, Abschluss am 07. April 2027 | 6-month internship at the university residence in Tlemcen (Direction des Œuvres Universitaires): developed RÉSIVO as my final exam project, completing on 7 April 2027 |
+| **Projekte** | 11 öffentliche Repositories: Schwerpunkt auf Web- und Desktop-Entwicklung, Datenbanken und Datenanalyse | 11 public repositories: focus on web and desktop development, databases, and data analysis |
+| **Deutsch** | B1 (in Vorbereitung auf B2 vor Ausbildungsbeginn) | B1 (continuing study toward B2 before apprenticeship start) |
+| **Englisch** | B2 (Arbeitssprache in Softwareprojekten) | B2 (working language across technical projects) |
+| **Französisch** | C1 | C1 |
+| **Ausbildungsstart** | August 2027 | August 2027 |
+| **Standort** | Bundesweit offen, umzugsbereit | Open to relocation across Germany |
 
 ---
 
-## 📫 Kontakt / Contact
+## Kontakt / Contact
 
 | | |
 |---|---|
