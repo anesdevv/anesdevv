@@ -144,7 +144,7 @@
 
 | | 🇩🇪 Deutsch | 🇬🇧 English |
 |---|---|---|
-| **Ausbildung** | Technicien Supérieur (Informatik), Algerien — Abschlussarbeit über RÉSIVO | Technicien Supérieur (computer science), Algeria — final-year thesis on RÉSIVO |
+| **Ausbildung** | Technicien Supérieur (Informatik), Algerien · **2024 – 2027** — 2 Jahre Studium mit integriertem 6-monatigem Praktikum; Abschlussarbeit über RÉSIVO | Technicien Supérieur (computer science), Algeria · **2024 – 2027** — two years of study with an integrated 6-month internship; final-year thesis on RÉSIVO |
 | **Praxis** | **6-monatiges Praktikum** im Studentenwohnheim der Universität Tlemcen (Direction des Ouvres Universitaires) — Entwicklung von **RÉSIVO** als **Abschlussprojekt (Prüfungsprojekt)**, Abschluss am **07. April 2027** | **6-month internship** at the university residence in Tlemcen (Direction des Ouvres Universitaires) — building **RÉSIVO** as my **final exam project**, completing on **7 April 2027** |
 | **Projekte** | 11 öffentliche Repositories (Open Source) — Schwerpunkt: Web- und Desktop-Entwicklung, Datenbanken und Datenanalyse | 11 public repositories (open source) — focus: web and desktop development, databases and data analysis |
 | **Deutsch** | **B1** — in Weiterbildung, Ziel **B2** vor dem Ausbildungsbeginn | **B1** — continuing study, target **B2** before the apprenticeship starts |
