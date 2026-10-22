@@ -14,10 +14,10 @@ Algerien · umzugsbereit · Ausbildungsstart: August 2027
 
 ## Ausbildung
 
-### ⚠️ Technicien Supérieur — Informatik · `[Jahr]` – `[Jahr]`
+### ⚠️ Technicien Supérieur — Informatik · 2024 – 2027
 `[Name und Ort der Schule]` · Algerien
 
-- Schwerpunkt: Datenbanken, Systemarchitektur und Softwareentwicklung
+- **2 Jahre Studium** mit integriertem **6-monatigem Praktikum**; Schwerpunkt: Datenbanken, Systemarchitektur und Softwareentwicklung
 - Abschlussarbeit: **RÉSIVO** — Verwaltungssystem für Studentenwohnheime (Astro, PySide6, Supabase, PostgreSQL), entwickelt für die *Direction des Ouvres Universitaires* in Tlemcen
 
 ### ⚠️ Baccalauréat · `[Jahr]`
