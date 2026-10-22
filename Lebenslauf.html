@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8" />
+<title>Lebenslauf – Sebai Anes</title>
+<style>
+  @page { size: A4; margin: 10mm 13mm; }
+
+  * { box-sizing: border-box; }
+
+  html, body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 9.1pt;
+    line-height: 1.25;
+    color: #111827;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .sheet { width: 100%; }
+
+  /* ---------- Header ---------- */
+  header { display: flex; gap: 9mm; align-items: flex-start; margin-bottom: 3mm; }
+
+  .head-main { flex: 1; }
+
+  h1 {
+    font-size: 18.5pt;
+    line-height: 1.08;
+    margin: 0 0 1mm 0;
+    letter-spacing: -0.2pt;
+    color: #0f172a;
+  }
+
+  .target {
+    font-size: 9.8pt;
+    font-weight: bold;
+    color: #1d4ed8;
+    margin: 0 0 1.8mm 0;
+  }
+
+  .contact { font-size: 8.6pt; color: #374151; }
+  .contact div { margin-bottom: 0.2mm; }
+
+  .photo {
+    width: 30mm;
+    height: 38mm;
+    border: 1px solid #d1d5db;
+    border-radius: 1.5mm;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 6.8pt;
+    color: #9ca3af;
+    flex: none;
+  }
+
+  /* ---------- Sections ---------- */
+  section { margin-top: 2.2mm; break-inside: avoid; }
+
+  h2 {
+    font-size: 9.1pt;
+    text-transform: uppercase;
+    letter-spacing: 0.9pt;
+    color: #0f172a;
+    border-bottom: 1px solid #0f172a;
+    padding-bottom: 0.6mm;
+    margin: 0 0 1.3mm 0;
+  }
+
+  .entry { margin-bottom: 1.5mm; break-inside: avoid; }
+  .entry:last-child { margin-bottom: 0; }
+
+  .entry-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 4mm;
+  }
+
+  .entry-title { font-weight: bold; color: #111827; }
+  .entry-org { font-weight: bold; color: #1f2937; }
+  .entry-date { font-size: 8.2pt; color: #4b5563; white-space: nowrap; }
+
+  .entry-sub { font-size: 8.3pt; color: #4b5563; margin-bottom: 0.4mm; }
+
+  ul { margin: 0.4mm 0 0 0; padding-left: 4mm; }
+  li { margin-bottom: 0.25mm; }
+
+  .cols { display: flex; gap: 7mm; }
+  .col { flex: 1; }
+
+  .skill-group { margin-bottom: 1mm; }
+  .skill-group:last-child { margin-bottom: 0; }
+  .skill-label { font-weight: bold; }
+
+  .lang-row { display: flex; justify-content: space-between; margin-bottom: 0.4mm; }
+  .lang-row:last-child { margin-bottom: 0; }
+  .lang-note { color: #6b7280; font-size: 8.2pt; }
+
+  .placeholder {
+    background: #fef3c7;
+    border-bottom: 1px dotted #b45309;
+    padding: 0 0.4mm;
+    color: #92400e;
+  }
+
+  footer {
+    margin-top: 2mm;
+    padding-top: 1mm;
+    border-top: 1px solid #d1d5db;
+    font-size: 7.8pt;
+    color: #6b7280;
+    display: flex;
+    justify-content: space-between;
+  }
+</style>
+</head>
+<body>
+<div class="sheet">
+
+  <header>
+    <div class="head-main">
+      <h1>Sebai Anes</h1>
+      <p class="target">Ich suche eine Ausbildung als Fachinformatiker/in — Anwendungsentwicklung, Systemintegration oder Daten- und Prozessanalyse</p>
+      <div class="contact">
+        <div><span class="placeholder">[Straße, Hausnummer, PLZ Ort, Algerien]</span> &nbsp;·&nbsp; <span class="placeholder">[Telefonnummer]</span> &nbsp;·&nbsp; <span class="placeholder">[Geburtsdatum]</span></div>
+        <div><a href="mailto:sebaianesmiloud@gmail.com">sebaianesmiloud@gmail.com</a> &nbsp;·&nbsp; linkedin.com/in/anesmiloudsebai &nbsp;·&nbsp; github.com/anesdevv</div>
+        <div>Algerien &nbsp;·&nbsp; umzugsbereit &nbsp;·&nbsp; Ausbildungsstart: August 2027</div>
+      </div>
+    </div>
+    <div class="photo">Lichtbild<br />(optional)</div>
+  </header>
+
+  <section>
+    <h2>Ausbildung</h2>
+
+    <div class="entry">
+      <div class="entry-head">
+        <div><span class="entry-title">Technicien Supérieur</span> <span class="entry-org">— Informatik</span></div>
+        <div class="entry-date"><span class="placeholder">[Jahr]</span> – <span class="placeholder">[Jahr]</span></div>
+      </div>
+      <div class="entry-sub"><span class="placeholder">[Name und Ort der Schule]</span> · Algerien</div>
+      <ul>
+        <li>Schwerpunkt: Datenbanken, Systemarchitektur und Softwareentwicklung · Abschlussarbeit: <strong>RÉSIVO</strong> — Verwaltungssystem für Studentenwohnheime (Astro, PySide6, Supabase, PostgreSQL), entwickelt für die Direction des Ouvres Universitaires in Tlemcen</li>
+      </ul>
+    </div>
+
+    <div class="entry">
+      <div class="entry-head">
+        <div><span class="entry-title">Baccalauréat</span></div>
+        <div class="entry-date"><span class="placeholder">[Jahr]</span></div>
+      </div>
+      <div class="entry-sub"><span class="placeholder">[Name und Ort des Gymnasiums]</span> · Algerien</div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Berufserfahrung</h2>
+
+    <div class="entry">
+      <div class="entry-head">
+        <div><span class="entry-org">Praktikum</span> <span class="entry-title">— Mitarbeiter-Datenbank</span></div>
+        <div class="entry-date"><span class="placeholder">[Monat]</span> <span class="placeholder">[Jahr]</span> – <span class="placeholder">[Monat]</span> <span class="placeholder">[Jahr]</span></div>
+      </div>
+      <div class="entry-sub"><span class="placeholder">[Firmenname]</span> · <span class="placeholder">[Ort]</span></div>
+      <ul>
+        <li>Entwicklung einer Datenbank für die Gesundheitsdaten der Mitarbeiter (6 Monate)</li>
+        <li>Entwurf des Datenmodells, Umsetzung der Oberfläche und Administration der Daten</li>
+      </ul>
+    </div>
+  </section>
+
+  <section>
+    <h2>Projekte</h2>
+
+    <div class="entry">
+      <div class="entry-head">
+        <div><span class="entry-org">RÉSIVO</span> <span class="entry-title">— Verwaltung von Studentenwohnheimen</span></div>
+        <div class="entry-date">2026</div>
+      </div>
+      <div class="entry-sub">Direction des Ouvres Universitaires, Tlemcen · <em>Python, PySide6/Qt6, Astro 5, TypeScript, PostgreSQL, Supabase, Cloudflare Workers</em></div>
+      <ul>
+        <li>Komplettsystem mit drei Oberflächen: Web-Portal für Studierende, Desktop-Konsole für die Verwaltung und KI-Assistent (MCP-Server) für Auswertungen in natürlicher Sprache</li>
+        <li>PostgreSQL mit Row-Level-Security, <code>SECURITY DEFINER</code>-Funktionen, idempotenten Migrationen und PL/pgSQL-Funktionen</li>
+        <li>Prozessmodellierung für Wohnheimbewerbung (Anfrage → Prüfung → Genehmigung), Raumtransfer und Wartung (Offen → In Arbeit → Erledigt)</li>
+        <li>Import und Validierung des offiziellen Prüfungsregisters (CSV/Excel), KPI-Abfragen zu Auslastung und offenen Tickets, 23 automatisierte Tests (Pytest) und Vitest-Suite, Open Source (MIT-Lizenz)</li>
+      </ul>
+    </div>
+
+    <div class="entry">
+      <div class="entry-head">
+        <div><span class="entry-org">Ulvic Console</span> <span class="entry-title">— Ledger und Lagerverwaltung</span></div>
+        <div class="entry-date">2026</div>
+      </div>
+      <div class="entry-sub">Ulvik Print, Algier · <em>TypeScript, React, Supabase</em></div>
+      <ul>
+        <li>Interne Anwendung für Umsatz, Kosten, Gewinn und Deckungsbeitrag sowie Lagerbestände in Echtzeit · Kalenderbasierte Ledger-Suche mit Notizen und Abbildung der Geschäftsprozesse</li>
+      </ul>
+    </div>
+
+    <div class="entry">
+      <div class="entry-head">
+        <div><span class="entry-org">FlowVoice</span> <span class="entry-title">— Lokale Sprachdiktat-App</span></div>
+        <div class="entry-date">2026</div>
+      </div>
+      <div class="entry-sub">Open Source · <em>Electron, JavaScript, Python, Whisper (offline)</em></div>
+      <ul>
+        <li>Desktop-App mit Offline-Spracherkennung: Die Transkription läuft vollständig auf dem eigenen Rechner — kein Cloud-Dienst, keine Accounts, keine Telemetrie · Schwebendes Overlay zur Eingabe in die gerade benutzte Anwendung</li>
+      </ul>
+    </div>
+
+    <div class="entry">
+      <div class="entry-head">
+        <div><span class="entry-org">Lycée Yaghmouracen</span> <span class="entry-title">— Schulverwaltung</span></div>
+        <div class="entry-date">2026</div>
+      </div>
+      <div class="entry-sub"><em>Python, PySide6/Qt6, SQLite, Pytest</em> — Schüler, Noten, Zeugnisse und Abschlüsse, getestet mit Pytest</div>
+    </div>
+
+    <div class="entry">
+      <div class="entry-head">
+        <div><span class="entry-org">Anes Journey</span> <span class="entry-title">— Produktivitäts-App</span></div>
+        <div class="entry-date">2026</div>
+      </div>
+      <div class="entry-sub"><em>Dart, Flutter, Supabase</em> — All-in-one-App für Gewohnheiten, Aufgaben und Tagesplanung</div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Kenntnisse</h2>
+    <div class="cols">
+      <div class="col">
+        <div class="skill-group"><span class="skill-label">Programmiersprachen:</span> Python, TypeScript, JavaScript, SQL, PL/pgSQL, Dart</div>
+        <div class="skill-group"><span class="skill-label">Datenbanken:</span> PostgreSQL, SQLite, Supabase, Row-Level-Security, Stored Procedures, Migrationen</div>
+        <div class="skill-group"><span class="skill-label">Web &amp; Frontend:</span> Astro, React, Tailwind CSS, HTML, CSS, Astro SSR</div>
+      </div>
+      <div class="col">
+        <div class="skill-group"><span class="skill-label">Desktop &amp; Frameworks:</span> PySide6/Qt6, Electron, CustomTkinter</div>
+        <div class="skill-group"><span class="skill-label">Plattformen &amp; Werkzeuge:</span> Cloudflare Workers, MCP, Node.js, Supabase Edge Functions, Git, pytest, Vitest</div>
+        <div class="skill-group"><span class="skill-label">Arbeitsweise:</span> Git, Testautomatisierung, technische Dokumentation, Datenmodellierung</div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Sprachen</h2>
+    <div class="lang-row"><span>Deutsch</span><span>A2 <span class="lang-note">(in Weiterbildung, Ziel B1–B2)</span></span></div>
+    <div class="lang-row"><span>Englisch</span><span>B2</span></div>
+    <div class="lang-row"><span>Französisch</span><span>C1</span></div>
+  </section>
+
+  <section>
+    <h2>Interessen</h2>
+    <div>Programmieren · Datenbanken und Datenvisualisierung · Künstliche Intelligenz · Deutsch lernen · Fußball</div>
+  </section>
+
+  <footer>
+    <span>Sebai Anes · Lebenslauf · Stand: <span class="placeholder">[Monat Jahr]</span></span>
+    <span>github.com/anesdevv · anesdevv-portfolio.vercel.app</span>
+  </footer>
+
+</div>
+</body>
+</html>
