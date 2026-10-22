@@ -13,9 +13,6 @@ ITEMS = [
     ("screenshots/web/dashboard-1440.png", "resivo-web.png", 1100),
     ("screenshots/web/dashboard-390.png", "resivo-mobile.png", 480),
     ("screenshots/desktop/00-overview-1280.png", "resivo-desktop.png", 1100),
-    ("screenshots/desktop/03-rooms-1280.png", "resivo-rooms.png", 900),
-    ("screenshots/desktop/04-maintenance-1280.png", "resivo-maintenance.png", 900),
-    ("screenshots/desktop/06-official_list-1280.png", "resivo-roster.png", 900),
     ("resivo_logo_transparent.png", "resivo-logo.png", 420),
 ]
 

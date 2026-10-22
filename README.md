@@ -15,7 +15,7 @@
   <a href="https://github.com/anesdevv/residence-management-system"><img alt="RÉSIVO" src="https://img.shields.io/badge/%F0%9F%8F%A0%20R%C3%89SIVO-quellencode-0f172a?style=flat-square&logo=github&logoColor=white" /></a>
   <img alt="Ausbildungsstart August 2027" src="https://img.shields.io/badge/Ausbildungsstart-August%202027-0ea5e9?style=flat-square" />
   <img alt="Standort bundesweit offen" src="https://img.shields.io/badge/Standort-bundesweit%20offen-0ea5e9?style=flat-square" />
-  <img alt="Deutsch A2" src="https://img.shields.io/badge/Deutsch-A2%20%E2%86%92%20B1%2FB2-f59e0b?style=flat-square" />
+  <img alt="Deutsch B1" src="https://img.shields.io/badge/Deutsch-B1%20%E2%86%92%20B2-f59e0b?style=flat-square" />
 </p>
 
 ---
@@ -63,13 +63,12 @@
     <td width="50%"><img alt="Web-Portal / Web portal" src="assets/resivo-web.png" /><br /><sub>Web-Portal (Astro 5) / Web portal (Astro 5)</sub></td>
     <td width="50%"><img alt="Personal-Konsole / Staff console" src="assets/resivo-desktop.png" /><br /><sub>Personal-Konsole (PySide6) / Staff console (PySide6)</sub></td>
   </tr>
-  <tr>
-    <td width="25%"><img alt="Mobile Ansicht / Mobile view" src="assets/resivo-mobile.png" /><br /><sub>Responsive / Mobil</sub></td>
-    <td width="25%"><img alt="Raumverwaltung / Room management" src="assets/resivo-rooms.png" /><br /><sub>Räume / Rooms</sub></td>
-    <td width="25%"><img alt="Wartung / Maintenance" src="assets/resivo-maintenance.png" /><br /><sub>Wartung / Maintenance</sub></td>
-    <td width="25%"><img alt="Offizielle Liste / Official roster" src="assets/resivo-roster.png" /><br /><sub>Offizielle Liste / Official roster</sub></td>
-  </tr>
 </table>
+
+<p align="center">
+  <img alt="Mobile Ansicht / Mobile view" src="assets/resivo-mobile.png" width="250" /><br />
+  <sub>Responsive / Mobil</sub>
+</p>
 
 ### 🎯 Passend zu den Fachrichtungen / Matches the specialisations
 
@@ -148,8 +147,8 @@
 | **Ausbildung** | Technicien Supérieur (Informatik), Algerien — Abschlussarbeit über RÉSIVO | Technicien Supérieur (computer science), Algeria — final-year thesis on RÉSIVO |
 | **Praxis** | 6-monatiges Praktikum: Entwicklung einer Mitarbeiter-Datenbank (Gesundheitsdaten) für ein Unternehmen | 6-month internship: development of an employee database (occupational health data) for a company |
 | **Projekte** | 11 öffentliche Repositories (Open Source) — Schwerpunkt: Web- und Desktop-Entwicklung, Datenbanken und Datenanalyse | 11 public repositories (open source) — focus: web and desktop development, databases and data analysis |
-| **Deutsch** | **A2** — in Weiterbildung, Ziel **B1 bis B2** vor dem Ausbildungsbeginn | **A2** — continuing study, target **B1 to B2** before the apprenticeship starts |
-| **Englisch** | **B2** — Unterrichts- und Arbeitssprache in den Projekten | **B2** — working language in my projects |
+| **Deutsch** | **B1** — in Weiterbildung, Ziel **B2** vor dem Ausbildungsbeginn | **B1** — continuing study, target **B2** before the apprenticeship starts |
+| **Englisch** | **B2** — Arbeitssprache in meinen Projekten | **B2** — working language in my projects |
 | **Französisch** | **C1** | **C1** |
 | **Ausbildungsstart** | **August 2027** | **August 2027** |
 | **Standort** | **Bundesweit offen**, umzugsbereit | **Open to any region in Germany**, willing to relocate |

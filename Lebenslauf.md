@@ -83,7 +83,7 @@ Dart, Flutter, Supabase — All-in-one-App für Gewohnheiten, Aufgaben und Tages
 
 | Sprache | Niveau |
 |---|---|
-| Deutsch | **A2** — in Weiterbildung, Ziel **B1–B2** |
+| Deutsch | **B1** — in Weiterbildung, Ziel **B2** |
 | Englisch | **B2** |
 | Französisch | **C1** |
 
